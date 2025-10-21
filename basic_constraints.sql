@@ -136,5 +136,3 @@ ALTER TABLE LibraryMembers DROP COLUMN join_at;
 DESCRIBE LibraryMembers;
 DROP TABLE LibraryMembers;
 DROP TABLE Classes, Courses, Departments, Employees, Managers, Projects, Teachers;
-
-
